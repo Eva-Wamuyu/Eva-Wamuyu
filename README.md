@@ -3,7 +3,7 @@
 ##### Wamuyu 😎 here,
 
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Redressed&theme=dark&layout=socrates&animation=grow_out_in)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Redressed&theme=dark&layout=socrates)
 
 *** 
 Keep geeking
