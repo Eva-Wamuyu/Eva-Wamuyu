@@ -3,7 +3,7 @@
 ##### Wamuyu 😎 here,
 
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Redressed&theme=nord&layout=samuel)
+![Quote](https://api.quotable.io/random?tags=technology,famous-quotes)
 
 *** 
 Keep geeking
